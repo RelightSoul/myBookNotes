@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _17._1FunWithTuples
+namespace _17._1.FunWithTuples
 {
     internal class Program
     {

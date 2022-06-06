@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TypeConversions
+namespace _04.TypeConversions
 {
     internal class Program
     {

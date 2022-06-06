@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SimpleCSharpApp", "Simpl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BasicConsoleIO", "BasicConsoleIO\02.BasicConsoleIO.csproj", "{908E0643-5420-4FE8-9E77-AFDC2A1FC617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BasicDataTypes", "BasicDataTypes\03.BasicDataTypes.csproj", "{A8ECA960-AED6-4BB4-8123-E69958C4ACF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.0.BasicDataTypes", "BasicDataTypes\03.0.BasicDataTypes.csproj", "{A8ECA960-AED6-4BB4-8123-E69958C4ACF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.zFunWithStrings", "FunWithStrings\03.zFunWithStrings.csproj", "{E276CB70-DAE7-4E2A-AF40-F2D5361B762E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.1.FunWithStrings", "FunWithStrings\03.1.FunWithStrings.csproj", "{E276CB70-DAE7-4E2A-AF40-F2D5361B762E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TypeConversions", "TypeConversions\04.TypeConversions.csproj", "{086D8135-82F9-45A3-8C88-5EB726E1F57D}"
 EndProject
@@ -31,15 +31,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.FunWithEnums", "12.FunWi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.FunWithStructures", "13.FunWithStructs\13.FunWithStructures.csproj", "{6BEFAB0B-D01E-4A84-A47C-85D1B0B08EE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.ValueAndReferenceTypes", "14.ValueAndReferenceTypes\14.ValueAndReferenceTypes.csproj", "{5404BE76-1D75-40EF-996A-570B199A6AE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.0.ValueAndReferenceTypes", "14.ValueAndReferenceTypes\14.0.ValueAndReferenceTypes.csproj", "{5404BE76-1D75-40EF-996A-570B199A6AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.1", "14.1\14.1.csproj", "{4EB1C790-F322-43B5-976F-0A9F8F0001D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.1.ValueAndReferenceTypes", "14.1\14.1.ValueAndReferenceTypes.csproj", "{4EB1C790-F322-43B5-976F-0A9F8F0001D6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.RefTypeValTypeParams", "15.RefTypeValTypeParams\15.RefTypeValTypeParams.csproj", "{AFDA6CC4-CD63-4A38-8214-75219C5FE07F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.NullableTypes", "16.NullableTypes\16.NullableTypes.csproj", "{6A7576F0-CCDE-4457-948C-2D79A22E0EB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.FunWithTuples", "17.FunWithTuples\17.FunWithTuples.csproj", "{EA03C89E-3918-4CB6-BB62-7EB0D3F4E0CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.0.FunWithTuples", "17.FunWithTuples\17.0.FunWithTuples.csproj", "{EA03C89E-3918-4CB6-BB62-7EB0D3F4E0CB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.1FunWithTuples", "_17.1FunWithTuples\17.1FunWithTuples.csproj", "{99F45B84-D38A-4466-92D3-856A8D5D8D38}"
 EndProject

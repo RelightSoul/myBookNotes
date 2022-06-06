@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleCSharpApp
+namespace _01.SimpleCSharpApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("*****My first c# App*****");
+            Console.WriteLine("***** My first C# App *****");
             Console.WriteLine("Hello World");
             Console.WriteLine();
                     
@@ -26,8 +26,7 @@ namespace SimpleCSharpApp
         }
         static void ShowEnvironmentDetails()
         {
-            // Вывести информацию о дисковых устройствах
-            // данной машины и другие интересные детали,
+            // Вывести информацию о дисковых устройствах данной машины и других деталях
             foreach (string drive in Environment.GetLogicalDrives())
                 Console.WriteLine("Drive: {0}", drive); 
                 Console.WriteLine("OS: {0}", Environment.OSVersion); 
