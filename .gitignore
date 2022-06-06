@@ -349,5 +349,5 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-# Мои пользовательские ограничения
-/Properties
+# My props
+*.Properties
