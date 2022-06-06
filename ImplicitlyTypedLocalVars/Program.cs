@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace ImplicitlyTypedLocalVars
+namespace _05.ImplicitlyTypedLocalVars
 {
     internal class Program
     {
