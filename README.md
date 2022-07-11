@@ -1,4 +1,4 @@
-# My book notes C#. 
+# Заметки по C#. 
 Andrew Troelsen and Philip Jepix. The C# 7 programming language.
 
-В данных заметках выписываю примеры из пройденных глав, разбираю через отладчик.
+Выписываю и разбираю примеры из пройденных глав.
